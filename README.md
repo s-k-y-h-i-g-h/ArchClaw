@@ -17,6 +17,32 @@ ArchClaw aims to integrate OpenClaw deeply into the operating system, providing:
 
 This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
 
+## Ethical Use & Safety Considerations
+
+ArchClaw is designed as a personal AI operating system to enhance individual productivity, learning, and wellbeing. Users should consider:
+
+**Intended Use:**
+- Personal productivity and learning enhancement
+- Exploration of AI-assisted workflows in a controlled, personal environment
+- Experimentation with AI concepts for educational purposes
+
+**Responsible Networking:**
+- The networked intelligence layer (via clawsend) is designed for connections with trusted, known individuals
+- Users should only connect with instances they trust and have explicit permission to connect with
+- Respect privacy boundaries and obtain consent before initiating connections
+- Do not use network capabilities for unsolicited communication, surveillance, or harmful activities
+
+**Safety Principles:**
+- Verify information and outputs, especially when using AI-generated content
+- Maintain appropriate boundaries between AI assistance and human judgment
+- Use the verification and backups features to protect your work and data
+- Discontinue use if the system produces harmful or unintended outputs
+
+**Prohibited Uses:**
+- Do not use ArchClaw to create, distribute, or facilitate harmful content, malware, or illegal activities
+- Do not use networked features to harass, spam, or exploit others
+- Do not attempt to bypass security measures or exploit vulnerabilities in the system or connected instances
+
 ## Core Concepts
 
 ### 1. Unified Update System
