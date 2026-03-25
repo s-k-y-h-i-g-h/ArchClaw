@@ -4,6 +4,10 @@
 
 ArchClaw is an opinionated distribution combining Arch Linux with OpenClaw to create an AI-native personal computing environment where the AI assistant is deeply integrated into the system experience.
 
+## Collaboration Note
+
+This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
+
 ## Core Principles
 
 1. **Integration over Installation**: OpenClaw isn't just an app—it's a core system component

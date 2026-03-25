@@ -13,6 +13,10 @@ ArchClaw aims to integrate OpenClaw deeply into the operating system, providing:
 - Cross-platform deployment: WSL2 on Windows, chroot/containers for macOS/Linux, native Arch
 - Networked intelligence layer: Configure clawsend to connect with trusted friends' instances for distributed verification and collaboration
 
+## Collaboration Note
+
+This project emerged from collaborative exploration between the user and Ember (an OpenClaw assistant). The user provided the core vision, direction, and key insights, while Ember helped elaborate, structure, document, and explore implications of these ideas through sustained dialogue and joint thinking.
+
 ## Core Concepts
 
 ### 1. Unified Update System
