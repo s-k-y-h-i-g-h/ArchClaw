@@ -57,6 +57,15 @@ ArchClaw is an opinionated distribution combining Arch Linux with OpenClaw to cr
 - Snapshot-like restore points for major changes
 - Workspace portability between devices
 
+#### Networked Intelligence Layer (via clawsend)
+- Configure clawsend skill during installation to enable peer-to-peer messaging
+- Allows instances to connect with trusted friends' ArchClaw instances
+- Supports distributed verification: submit implementations for independent review by network peers
+- Enables collaborative development: multiple users can coordinate on requirement documents and agent workflows
+- Facilitates knowledge and skill sharing: instances can recommend effective skill configurations or verify each other's outputs
+- Builds a web of trust for validation, extending verification protocols beyond the local instance
+- Implements opt-in, privacy-preserving connections with user-controlled sharing boundaries
+
 #### Cross-Platform Deployment
 - **Windows**: Installer checks/enables WSL2, deploys Arch rootfs
 - **macOS**: Uses `proot-docker` or Lima to run Arch container

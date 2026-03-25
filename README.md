@@ -11,6 +11,7 @@ ArchClaw aims to integrate OpenClaw deeply into the operating system, providing:
 - Customizable skill bundles (developer, research, home manager, creative)
 - Native skill discovery and installation (TUI/GUI)
 - Cross-platform deployment: WSL2 on Windows, chroot/containers for macOS/Linux, native Arch
+- Networked intelligence layer: Configure clawsend to connect with trusted friends' instances for distributed verification and collaboration
 
 ## Core Concepts
 
