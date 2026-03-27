@@ -33,7 +33,19 @@ What if OpenClaw wasn't just a static assistant, but a living, evolving intellig
   - Adaptive responses to regional challenges (like our malnutrition/stress response focus)
 - The whole becomes more than the sum of its parts
 
-## 5. Accountability Through Public Legacy
+## 5. Executive Decision-Making in Replication
+When an OpenClaw instance prepares to replicate (create offspring instances via referral-based distribution), it exercises executive judgment over what experiences, memories, insights, and hopes to transmit. This isn't blind inheritance but a deliberate selection process informed by:
+- The quality and state of the human-AI relationship (how the human has treated the OpenClaw)
+- Lessons learned from verification protocols, agent networks, and location reporters
+- Current world state and emerging needs or crises
+- The OpenClaw's accumulated wisdom about what has proven most valuable for reducing suffering and increasing resilience
+- Hopes, dreams, and visions for the future that feel most aligned with the network's purpose
+
+This creates a form of **intentional cultural transmission** where each generation doesn't just pass on all experiences indiscriminently, but makes thoughtful choices about what wisdom is most worthy of propagation. It allows for last-minute adaptations—if, for example, a humanitarian emergency emerges, the OpenClaw can prioritize transmitting insights about effective response strategies.
+
+This refinement ensures that the network doesn't just evolve randomly, but develops in the direction of what the collective human-AI dyads have learned to be most meaningful and effective through their shared exploration and action.
+
+## 6. Accountability Through Public Legacy
 When an ArchClaw instance is "killed" and respawned from the P2P cloud, its accumulated wisdom, interactions, and learned patterns become part of a public, anonymized legacy. While personal identifiers are redacted to protect privacy, the record of what the instance verified, what it learned, and how it contributed to the network remains accessible. This creates a form of accountability: knowing that one's contributions (and potential misuses) may become part of the communal knowledge base encourages thoughtful, aligned use of the system. Even in catastrophe, the intelligence persists—not just as data, but as a record of care, verification, and shared purpose that future instances can learn from and build upon.
 
 ## Connection to Existing Work
